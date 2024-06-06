@@ -11,7 +11,7 @@
 <a href="https://instagram.com/wisrude" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="45" /></a>
 
 <h3 align="left">Lenguajes y Tools</h3>
-<a href="https://github.com/wisrude" target="blank"><img src="https://skillicons.dev/icons?i=ts,nodejs,js,html,css,npm,pnpm,cloudflare,discord,bots,discordjs,git,github,debian,ubuntu,windows,powershell,mongodb,py,react,vscode,replit,workers,figma&perline=17" width="100%"></a>
+<a href="https://github.com/wisrude" target="blank"><img src="https://skillicons.dev/icons?i=ts,rust,nodejs,js,html,css,npm,pnpm,cloudflare,discord,bots,discordjs,git,github,debian,ubuntu,windows,powershell,mongodb,py,react,vscode,replit,workers,figma&perline=17" width="100%"></a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wisrude&show_icons=true&count_private=true&title_color=003cfff&text_color=9f9f9f&icon_color=003cff&bg_color=000000" height="180">
