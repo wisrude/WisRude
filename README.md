@@ -17,3 +17,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=wisrude&show_icons=true&count_private=true&title_color=003cfff&text_color=9f9f9f&icon_color=003cff&bg_color=000000" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisrude&count_private=true&layout=compact&title_color=003cff&text_color=9f9f9f&icon_color=003cff&bg_color=000000" height="180">
 </p>
+
+- **📩 Collabs:** wisrudecollab@gmail.com
