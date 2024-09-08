@@ -7,7 +7,7 @@
 > wisrudecollab@gmail.com
 <h3 align="left">🎬 Social Media</h3>
 <p align="left">
-<a href="https://discord.com/users/1001023916346708029" target="_blank" rel="noopener noreferrer">><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Discord" height="45" /></a>
+<a href="https://discord.com/users/1001023916346708029" target="_blank" rel="noopener noreferrer"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Discord" height="45" /></a>
 <a href="https://x.com/wisrude" target="_blank" rel="noopener noreferrer"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="45" /></a>
 <a href="https://instagram.com/wisrude" target="_blank" rel="noopener noreferrer"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="45" /></a>
 
