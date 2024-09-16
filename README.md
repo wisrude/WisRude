@@ -17,4 +17,4 @@
 
 <h3 align="left">⚙️ Tools</h3>
 <p align="left">
-<a href="https://github.com/wisrude" target="blank"><img align="center" src="https://skillicons.dev/icons?i=nodejs,react,tauri,actix,discordjs,npm,pnpm,bots,mongodb&perline=17" width="50%"></a>
+<a href="https://github.com/wisrude" target="blank"><img align="center" src="https://skillicons.dev/icons?i=nodejs,react,tauri,actix,discordjs,npm,pnpm,bots,mongodb,clouflare&perline=17" width="50%"></a>
