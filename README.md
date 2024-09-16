@@ -13,7 +13,7 @@
 
 <h3 align="left">🎯 Languages</h3>
 <p align="left">
-<a href="https://github.com/wisrude" target="blank"><img align="center" src="https://skillicons.dev/icons?i=rust,js,ts,html,css&perline=17" width="30%"></a>
+<a href="https://github.com/wisrude" target="blank"><img align="center" src="https://skillicons.dev/icons?i=rust,ts,js,html,css&perline=17" width="30%"></a>
 
 <h3 align="left">⚙️ Tools</h3>
 <p align="left">
